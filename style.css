@@ -1,0 +1,292 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+header {
+    align-items: center;
+}
+
+.omega {
+    background-color: #5454D4;
+
+
+}
+
+.katta {
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+    padding-bottom: 50px;
+
+}
+
+.demos ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    list-style: none;
+    text-decoration: none;
+    padding-top: 50px;
+}
+
+.img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding: 40px 40px;
+}
+
+.demos ul li {
+    text-decoration: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.ALI {
+    align-items: center;
+}
+
+ul h3 {
+    color: white;
+}
+
+.kattasi {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+}
+
+.kattasi h1 {
+    padding: 20px;
+    font-size: 60px;
+    line-height: 70px;
+
+
+
+}
+
+.kattasi p {
+    color: grey;
+    font-size: 21px;
+    line-height: 39px;
+
+}
+
+.every img {
+    padding: 100px;
+}
+
+.free h1 {
+    font-size: 60px;
+    line-height: 70px;
+    padding-bottom: 30px;
+}
+
+.free p {
+    font-size: 21px;
+    line-height: 39px;
+    color: #696871;
+}
+.johon{
+    text-align: center;
+}
+
+.beat {
+    padding-right: 80px;
+}
+
+.beat p {
+    color: white;
+}
+
+.beat h1 {
+    color: white;
+}
+
+.btn {
+    border: none;
+    border-radius: 5px;
+    background-color: #F0C931;
+    color: black;
+    padding: 10px 20px 10px 20px;
+}
+
+.btn:hover {
+    background-color: #5454D4;
+}
+
+.katta {
+    padding-bottom: 80px;
+}
+
+.get {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px 50px;
+}
+
+.free p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.need {
+    text-align: center;
+}
+
+.need h1 {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.rngi {
+    background-color: #413E65;
+
+}
+
+.fully {
+    display: flex;
+    justify-content: center;
+    text-wrap: wrap;
+    gap: 100px;
+    padding-bottom: 50px;
+}
+
+.pp {
+    width: 348px;
+    height: 80px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.dam {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.dam h1 {
+    padding-bottom: 40px;
+
+}
+
+.fully {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.dam p {
+    padding-bottom: 40px;
+}
+
+.o {
+    width: 300px;
+}
+
+.p {
+    width: 500px;
+}
+
+.nm {
+    background-color: #5454D4;
+}
+
+.johon {
+    padding: 100px 100px;
+}
+
+.johon p {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.johon h1 {
+    color: white;
+}
+
+.mini {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mini h1 {
+    padding-bottom: 20px;
+}
+
+.mini p {
+    padding-bottom: 50px;
+}
+
+.koola {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-bottom: 80px;
+}
+
+.muham {
+    background-color: #5454D4;
+}
+
+.j h1 {
+    padding: 50px 50px;
+    color: white;
+    font-size: 40px;
+}
+
+.bobo {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.btt {
+    border: none;
+    border-radius: 5px;
+    background-color: #F0C931;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    margin-top: 70px;
+
+}
+
+.btt:hover {
+    background-color: #5454D4;
+}
+
+.qw {
+    background-color: #5454D4;
+}
+
+.kitti {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.haha ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    list-style: none;
+}
